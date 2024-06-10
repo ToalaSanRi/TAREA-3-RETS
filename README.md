@@ -69,6 +69,11 @@ public class Main extends Application {
     }
 }
 
+![image](https://github.com/ToalaSanRi/TAREA-3-RETS/assets/169106800/ca30040f-0340-4bce-b2c9-ed1a861fe239)
+
+![image](https://github.com/ToalaSanRi/TAREA-3-RETS/assets/169106800/e9e06679-9723-4d9a-88aa-7cb54a7d210d)
+
+
 
             -- COMPONENTES DEL CÓDIGO --
 
